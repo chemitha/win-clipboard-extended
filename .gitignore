@@ -1,0 +1,19 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Project Specific Data ---
+
+database.db
+
+cache/
+
+.venv/
+venv/
+env/
+.env
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db

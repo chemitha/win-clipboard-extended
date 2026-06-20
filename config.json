@@ -1,0 +1,6 @@
+{
+    "hotkey": "alt+v",
+    "theme": "dark",
+    "poll_interval_seconds": 0.5,
+    "max_history_items": 100
+}
